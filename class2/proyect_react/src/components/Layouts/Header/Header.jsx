@@ -1,5 +1,6 @@
 import { LogoPrincipal } from "../../UI/LogoPrincipal/LogoPrincipal"
 import { Navbar } from "../../UI/Navbar/Navbar"
+import './Header.css'
 
 
 export const Header = () => {
