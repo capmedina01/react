@@ -14,8 +14,7 @@ export const Introduction = () => {
             </div>
             <div className="img_container">
                 <IntroImage src={imgIntro} alt={imgIntro}/>
-            </div>
-                  
+            </div>                  
         </div>
     )
 }
